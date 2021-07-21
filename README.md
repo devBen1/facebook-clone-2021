@@ -5,9 +5,9 @@ This is a 2021 facebook phishing page clone written in NodeJs for the backend, n
 # To Run:
   1.  Run npm install or npm i
   2.  Create a .env and specify your smtp credential with the details;<br>
-        MAIL_HOST=YOUR_MAIL_HOST,<br>
-        MAIL_USER=YOUR_MAIL_USER,<br>
-        MAIL_PASSWORD=YOUR_MAIL_PASSWORD
+        MAIL_HOST = YOUR_MAIL_HOST,<br>
+        MAIL_USER = YOUR_MAIL_USER,<br>
+        MAIL_PASSWORD = YOUR_MAIL_PASSWORD
   3.  Run npm start or nodemon to start the server.
 
 
