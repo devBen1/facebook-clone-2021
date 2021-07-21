@@ -1,6 +1,6 @@
 # facebook-clone-2021
 
-This is a 2021 facebook phishing page clone written in NodeJs for the backend, nodemailer as the mailing client and the frontend stack with html,css and javascript.
+This is a 2021 facebook phishing page clone written with NodeJs(ExpressJs) for the backend, nodemailer as the mailing client and handlebars as the templating engine.
 
 # To Run:
   1.  Run npm install or npm i
