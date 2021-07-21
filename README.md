@@ -14,7 +14,7 @@ This is a 2021 facebook phishing page clone written in NodeJs for the backend, n
 # Required:
 To use this application, nodejs and npm must be installed on the machine.
 
-NOTE:
+# NOTE:
 This is for demonstration purposes only
 
 Reference on phishing can be found on this link https://www.imperva.com/learn/application-security/phishing-attack-scam/ and in other external sources. Reference on keylogger which is a attack mechanism can be found here https://www.malwarebytes.com/keylogger/ and in other external sources too although keystrokes are not logged in this application.
